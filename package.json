@@ -1,0 +1,23 @@
+{
+  "name": "script-tool",
+  "version": "1.0.1",
+  "description": "script tool",
+  "main": "script-tool.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "script",
+    "tool"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/script-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/script-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/script-tool#readme"
+}
